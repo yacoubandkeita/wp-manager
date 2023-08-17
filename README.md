@@ -1,1 +1,1 @@
-# wp-initial-setup
+# Wordpress Manager
